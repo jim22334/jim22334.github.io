@@ -34,4 +34,13 @@ section#about.resume-section{
 }
 .jimserif{
     font-family: "Noto Serif TC", serif;
-} 
+}
+.jimcallmebg{
+    background-image: url("../assets/img/01.JPG");
+    background-size:cover ;
+    background-repeat:no-repeat ;
+}
+.white{
+    color: white;
+}
+
