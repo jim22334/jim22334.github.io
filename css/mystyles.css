@@ -31,4 +31,7 @@ section#about.resume-section{
     background-size: cover;
     background-repeat: no-repeat;
     background-color:rgb(233, 214, 214);
+}
+.jimserif{
+    font-family: "Noto Serif TC", serif;
 } 
