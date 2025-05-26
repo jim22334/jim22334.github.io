@@ -14,7 +14,7 @@ a.jimlink:hover{
     background-color: brown;
     color: white;
 }
-div.jimdivgrey{
+div.jimdivred{
     background-color: rgb(235, 207, 207);
     padding:20px;
     border-radius: 10px;
@@ -40,7 +40,6 @@ section#about.resume-section{
     background-size:cover ;
     background-repeat:no-repeat ;
     opacity:0.6;
-    filter:alpha(opacity=60);
 }
 .red{
     color: rgb(255, 0, 0);
