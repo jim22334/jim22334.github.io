@@ -39,10 +39,11 @@ section#about.resume-section{
     background-image: url("../assets/img/07.JPG");
     background-size:cover ;
     background-repeat:no-repeat ;
-    opacity:0.7;
+    opacity:0.6;
     filter:alpha(opacity=60);
 }
 .red{
     color: rgb(255, 0, 0);
 }
+
 
