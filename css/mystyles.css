@@ -15,8 +15,8 @@ a.jimlink:hover{
     color: white;
 }
 div.jimdivgrey{
-    background-color: rgb(235, 235, 235);
-    padding: 30px;
+    background-color: rgb(235, 207, 207);
+    padding:20px;
     border-radius: 10px;
     border: 1px solid black;
     margin: 20px;
@@ -36,11 +36,13 @@ section#about.resume-section{
     font-family: "Noto Serif TC", serif;
 }
 .jimcallmebg{
-    background-image: url("../assets/img/01.JPG");
+    background-image: url("../assets/img/07.JPG");
     background-size:cover ;
     background-repeat:no-repeat ;
+    opacity:0.7;
+    filter:alpha(opacity=60);
 }
-.white{
-    color: white;
+.red{
+    color: rgb(255, 0, 0);
 }
 
